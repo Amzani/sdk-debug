@@ -1,0 +1,5 @@
+apideck==1.4.5
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+six==1.16.0
+urllib3==2.2.3
